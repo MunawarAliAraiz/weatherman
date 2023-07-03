@@ -20,7 +20,7 @@ def matchSentence(user_input, sentence):
 
 print("\t\t||**** Typing Test ****||")
 input('Press Enter to Start....')
-time1 = time.time()
+time1 = 0
 sentence = "A Quick Brown Fox Jumps Over the Lazy Dog"
 user_input = input(f"{sentence}\nStart ##Typing from here: ")
 time2 = time.time()
