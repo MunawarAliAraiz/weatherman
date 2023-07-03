@@ -22,7 +22,7 @@ print("\t\t||**** Typing Test ****||")
 input('Press Enter to Start....')
 time1 = time.time()
 sentence = "A Quick Brown Fox Jumps Over the Lazy Dog"
-user_input = input(f"{sentence}\nStart ##Typing from here: ")
+user_input = input(f"{sentence}\nStart Typing from here: ")
 time2 = time.time()
 elapsed_time = time2-time1
 # print(f'Elaspsed Time {elapsed_time}')
