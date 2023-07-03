@@ -31,3 +31,7 @@ mis, acc = matchSentence(user_input, sentence)
 print(f"No. of Mistakes: {mis}\nAccuracy: {acc}")
 print(f"WPM: {wpm(user_input, elapsed_time)}")
 
+
+print("Testing Branches in Github")
+print("Testing Branches in Github")
+
